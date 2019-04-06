@@ -2,7 +2,7 @@ from PyPDF2 import PdfFileMerger
 import os
 
 #The merged PDF file will be saved to this directory
-folder_path = "your file path (e.g. users/Username/Desktop/Folder"
+folder_path = "your file path (e.g. users/Username/Desktop/Folder)"
 
 '''This list contains the PDF files that will be merged, the file at the first
 index will be at the start'''
